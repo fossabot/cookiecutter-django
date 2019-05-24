@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fstep21%2Fcookiecutter-django.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fstep21%2Fcookiecutter-django?ref=badge_shield)
+
 Cookiecutter Django
 =======================
 
@@ -317,3 +319,6 @@ rooms, and mailing lists is expected to follow the `PyPA Code of Conduct`_.
 
 
 .. _`PyPA Code of Conduct`: https://www.pypa.io/en/latest/code-of-conduct/
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fstep21%2Fcookiecutter-django.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fstep21%2Fcookiecutter-django?ref=badge_large)
